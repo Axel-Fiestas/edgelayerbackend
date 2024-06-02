@@ -1,4 +1,4 @@
-package com.upc.edgelayerbackend;
+package com.upc.edgelayerbackend.task;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

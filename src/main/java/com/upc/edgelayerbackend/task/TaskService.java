@@ -1,4 +1,4 @@
-package com.upc.edgelayerbackend;
+package com.upc.edgelayerbackend.task;
 
 import org.springframework.stereotype.Service;
 

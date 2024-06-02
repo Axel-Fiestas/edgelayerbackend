@@ -1,4 +1,4 @@
-package com.upc.edgelayerbackend;
+package com.upc.edgelayerbackend.task;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
